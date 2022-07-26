@@ -8,6 +8,8 @@
     "data":[
         {"id":1,
         "name":"sharma"
-    }
+    }, {"id":2,
+    "name":"sharma"
+}
     ]
 }
