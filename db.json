@@ -6,10 +6,16 @@
         }
     ],
     "data":[
-        {"id":1,
-        "name":"sharma"
-    }, {"id":2,
-    "name":"sharma"
-}
+        {
+            "id":1,
+            "name":"sharma"
+         }, 
+        {
+            "id":2,
+            "name":"sharma"
+        }
+    ],
+    "memData":[
+        {"id":1,"name":"Chetan Sharma","age":22,"education":"B.Sc. passed"}
     ]
 }
