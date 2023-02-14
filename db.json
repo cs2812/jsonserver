@@ -1,18 +1,20 @@
 {
-    "books":[
-        
-    ],
-    "user": [
-      
-    ],
-    "token":[
-        {
-            "token": "QpwL5tke4Pnpja7X4",
-            "id": 1
-            }
-    ],
-    
-    "menData":[
-        {"id":1,"name":"Chetan Sharma","age":22,"education":"B.Sc. passed"}
-    ]
+  "token": [
+    {
+      "token": "QpwL5tke4Pnpja7X4",
+      "id": 1
+    }
+  ],
+  "grocry":[
+    {"id":1, "name":"Apple", "image":"https://5.imimg.com/data5/SELLER/Default/2021/8/YN/SE/FV/72826034/red-apple-500x500.jpg","price":"150"},
+    {"id":2, "name":"Orange", "image":"https://cdn.shopify.com/s/files/1/0581/2151/9284/products/IndianOrange_4_750x810.jpg?v=1631522534","price":"100"},
+    {"id":3, "name":"Graps", "image":"https://www.indianonshop.com/wp-content/uploads/2022/06/Graps.jpg","price":"90"},
+    {"id":4, "name":"Watermelon", "image":"https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg","price":"40"},
+    {"id":5, "name":"Mango", "image":"https://5.imimg.com/data5/SELLER/Default/2021/5/GH/WC/ZY/127199812/fresh-mango-fruits-500x500.jpg","price":"70"},
+    {"id":6, "name":"Pomegranate", "image":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT65x7DSX_gBJCvleIAUn9SGSyQYkSZFCCWv0MMKKg72XM4jIoeZYd7N5qRlRRzpe2n1Z0AtJNXFKSXod4","price":"200"}
+
+  ],
+  "menData": [
+    { "id": 1, "name": "Chetan Sharma", "age": 22, "education": "B.Sc. passed" }
+  ]
 }
