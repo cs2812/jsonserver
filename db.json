@@ -5,7 +5,7 @@
       "id": 1
     }
   ],
-  "grocry":[
+  "grocery":[
     {"id":1, "name":"Apple", "image":"https://5.imimg.com/data5/SELLER/Default/2021/8/YN/SE/FV/72826034/red-apple-500x500.jpg","price":"150"},
     {"id":2, "name":"Orange", "image":"https://cdn.shopify.com/s/files/1/0581/2151/9284/products/IndianOrange_4_750x810.jpg?v=1631522534","price":"100"},
     {"id":3, "name":"Graps", "image":"https://www.indianonshop.com/wp-content/uploads/2022/06/Graps.jpg","price":"90"},
