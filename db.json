@@ -5,16 +5,86 @@
       "id": 1
     }
   ],
-  "grocery":[
-    {"id":1, "name":"Apple", "image":"https://5.imimg.com/data5/SELLER/Default/2021/8/YN/SE/FV/72826034/red-apple-500x500.jpg","price":"150"},
-    {"id":2, "name":"Orange", "image":"https://cdn.shopify.com/s/files/1/0581/2151/9284/products/IndianOrange_4_750x810.jpg?v=1631522534","price":"100"},
-    {"id":3, "name":"Graps", "image":"https://www.indianonshop.com/wp-content/uploads/2022/06/Graps.jpg","price":"90"},
-    {"id":4, "name":"Watermelon", "image":"https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg","price":"40"},
-    {"id":5, "name":"Mango", "image":"https://5.imimg.com/data5/SELLER/Default/2021/5/GH/WC/ZY/127199812/fresh-mango-fruits-500x500.jpg","price":"70"},
-    {"id":6, "name":"Pomegranate", "image":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT65x7DSX_gBJCvleIAUn9SGSyQYkSZFCCWv0MMKKg72XM4jIoeZYd7N5qRlRRzpe2n1Z0AtJNXFKSXod4","price":"200"}
-
+  "grocery": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/YN/SE/FV/72826034/red-apple-500x500.jpg",
+      "price": "150"
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "image": "https://cdn.shopify.com/s/files/1/0581/2151/9284/products/IndianOrange_4_750x810.jpg?v=1631522534",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "name": "Graps",
+      "image": "https://www.indianonshop.com/wp-content/uploads/2022/06/Graps.jpg",
+      "price": "90"
+    },
+    {
+      "id": 4,
+      "name": "Watermelon",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg",
+      "price": "40"
+    },
+    {
+      "id": 5,
+      "name": "Mango",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/GH/WC/ZY/127199812/fresh-mango-fruits-500x500.jpg",
+      "price": "70"
+    },
+    {
+      "id": 6,
+      "name": "Pomegranate",
+      "image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT65x7DSX_gBJCvleIAUn9SGSyQYkSZFCCWv0MMKKg72XM4jIoeZYd7N5qRlRRzpe2n1Z0AtJNXFKSXod4",
+      "price": "200"
+    },
+    {
+      "id": 7,
+      "name": "Mustard Oil",
+      "price": "5",
+      "image": "https://m.media-amazon.com/images/I/61d2tZg7-XL.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://m.media-amazon.com/images/I/51A8+b9ZgHL._SX679_.jpg",
+      "name": "Dish wash",
+      "price": "6"
+    },
+    {
+      "id": 9,
+      "image": "https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/All-about-grain-flours-resized.jpg",
+      "name": "Ashirwad Aata",
+      "price": "20"
+    },
+    {
+      "id": 10,
+      "name": "suger",
+      "price": "2",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/214431_11-madhur-sugar-refined.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tea leaves",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/khuvxjk0-0/tea/u/7/j/200-100-natural-organic-herbal-green-tea-leaf-for-weight-loss-original-imafxsahfkdyqs9y.jpeg?q=20&crop=false",
+      "price": "2"
+    },
+    {
+      "id": 12,
+      "image": "https://m.media-amazon.com/images/I/51cAnoCvWkL._AC_UF1000,1000_QL80_.jpg",
+      "name": "Ghee",
+      "price": "10"
+    }
   ],
   "menData": [
-    { "id": 1, "name": "Chetan Sharma", "age": 22, "education": "B.Sc. passed" }
+    {
+      "id": 1,
+      "name": "Chetan Sharma",
+      "age": 22,
+      "education": "B.Sc. passed"
+    }
   ]
 }
